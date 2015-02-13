@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: cc577937cab5bf1469707b791164ec63
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frame1
+    21300002: frame10
+    21300004: frame11
+    21300006: frame12
+    21300008: frame13
+    21300010: frame14
+    21300012: frame15
+    21300014: frame16
+    21300016: frame17
+    21300018: frame18
+    21300020: frame19
+    21300022: frame2
+    21300024: frame20
+    21300026: frame21
+    21300028: frame3
+    21300030: frame4
+    21300032: frame5
+    21300034: frame6
+    21300036: frame7
+    21300038: frame8
+    21300040: frame9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frame1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 357
+        width: 140
+        height: 153
+      alignment: 9
+      pivot: {x: .435714275, y: .816993475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 144
+        width: 131
+        height: 143
+      alignment: 9
+      pivot: {x: .46564886, y: .874125898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 223
+        width: 121
+        height: 132
+      alignment: 9
+      pivot: {x: .4214876, y: .946969688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 98
+        width: 113
+        height: 123
+      alignment: 9
+      pivot: {x: .451327443, y: 1.01626015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 28
+        width: 105
+        height: 114
+      alignment: 9
+      pivot: {x: .409523815, y: 1.09649122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame15
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: .457446814, y: 1.22549021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: .457446814, y: 1.22549021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame17
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2
+        width: 86
+        height: 94
+      alignment: 9
+      pivot: {x: .40697673, y: 1.32978725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame18
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 15
+        width: 74
+        height: 81
+      alignment: 9
+      pivot: {x: .472972959, y: 1.54320991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: .400000006, y: 1.76056337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 223
+        height: 243
+      alignment: 9
+      pivot: {x: .515695095, y: .514403284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame20
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 42
+        width: 58
+        height: 63
+      alignment: 9
+      pivot: {x: .448275864, y: 1.98412693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 22
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: .346938789, y: 2.31481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 272
+        width: 219
+        height: 238
+      alignment: 9
+      pivot: {x: .506849289, y: .525210083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 277
+        width: 214
+        height: 233
+      alignment: 9
+      pivot: {x: .518691599, y: .536480665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 277
+        width: 214
+        height: 233
+      alignment: 9
+      pivot: {x: .518691599, y: .536480665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 289
+        width: 203
+        height: 221
+      alignment: 9
+      pivot: {x: .54679805, y: .565610886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 52
+        width: 189
+        height: 206
+      alignment: 9
+      pivot: {x: .513227522, y: .606796145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 78
+        width: 176
+        height: 192
+      alignment: 9
+      pivot: {x: .477272719, y: .651041687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 107
+        width: 154
+        height: 168
+      alignment: 9
+      pivot: {x: .487012982, y: .744047642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

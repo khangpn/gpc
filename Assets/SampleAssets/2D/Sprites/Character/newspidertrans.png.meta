@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 6eff34089f36a894091c0a2698e5469b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frame1
+    21300002: frame10
+    21300004: frame11
+    21300006: frame12
+    21300008: frame13
+    21300010: frame14
+    21300012: frame15
+    21300014: frame2
+    21300016: frame3
+    21300018: frame4
+    21300020: frame5
+    21300022: frame6
+    21300024: frame7
+    21300026: frame8
+    21300028: frame9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frame1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 968
+        width: 353
+        height: 366
+      alignment: 9
+      pivot: {x: .473087817, y: .478142083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1666
+        width: 405
+        height: 380
+      alignment: 9
+      pivot: {x: .556790113, y: .614473701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 977
+        width: 281
+        height: 357
+      alignment: 9
+      pivot: {x: .555160165, y: .49859944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1033
+        width: 368
+        height: 345
+      alignment: 9
+      pivot: {x: .513586938, y: .536231875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1033
+        width: 368
+        height: 345
+      alignment: 9
+      pivot: {x: .513586938, y: .536231875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1033
+        width: 368
+        height: 345
+      alignment: 9
+      pivot: {x: .513586938, y: .536231875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1729
+        width: 497
+        height: 317
+      alignment: 9
+      pivot: {x: .503018081, y: .589905381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 334
+        height: 268
+      alignment: 9
+      pivot: {x: .520958066, y: .473880589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1336
+        width: 376
+        height: 328
+      alignment: 9
+      pivot: {x: .502659559, y: .597561002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1380
+        width: 400
+        height: 347
+      alignment: 9
+      pivot: {x: .5, y: .544668615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 724
+        width: 353
+        height: 307
+      alignment: 9
+      pivot: {x: .473087817, y: .570032597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 339
+        height: 335
+      alignment: 9
+      pivot: {x: .530973434, y: .50746268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 662
+        width: 310
+        height: 304
+      alignment: 9
+      pivot: {x: .51935482, y: .509868443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1336
+        width: 376
+        height: 328
+      alignment: 9
+      pivot: {x: .502659559, y: .597561002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frame9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 637
+        width: 341
+        height: 329
+      alignment: 9
+      pivot: {x: .51026392, y: .510638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 0d9bf663cfff6994aa542d95726c63ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: newspidertrans_0
+    21300002: newspidertrans_1
+    21300004: newspidertrans_2
+    21300006: newspidertrans_3
+    21300008: newspidertrans_4
+    21300010: newspidertrans_5
+    21300012: newspidertrans_6
+    21300014: newspidertrans_7
+    21300016: newspidertrans_8
+    21300018: newspidertrans_9
+    21300020: newspidertrans_10
+    21300022: newspidertrans_11
+    21300024: newspidertrans_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: newspidertrans_0
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1851
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1665
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1031
+        width: 370
+        height: 348
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1335
+        width: 381
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 975
+        width: 284
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 637
+        width: 342
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 661
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 337
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1744
+        width: 487
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1378
+        width: 401
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 965
+        width: 361
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 721
+        width: 349
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newspidertrans_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 349
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

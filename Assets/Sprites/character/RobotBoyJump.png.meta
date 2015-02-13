@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 4a79402b9e52c214988058299c093de4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotBoyJump_0
+    21300002: RobotBoyJump_1
+    21300004: RobotBoyJump_2
+    21300006: RobotBoyJump_3
+    21300008: RobotBoyJump_4
+    21300010: RobotBoyJump_5
+    21300012: RobotBoyJump_6
+    21300014: RobotBoyJump_7
+    21300016: RobotBoyJump_8
+    21300018: RobotBoyJump_9
+    21300020: RobotBoyJump_10
+    21300022: RobotBoyJump_11
+    21300024: RobotBoyJump_12
+    21300026: RobotBoyJump_13
+    21300028: RobotBoyJump_14
+    21300030: RobotBoyJump_15
+    21300032: RobotBoyJump_16
+    21300034: RobotBoyJump_17
+    21300036: RobotBoyJump_18
+    21300038: RobotBoyJump_19
+    21300040: RobotBoyJump_20
+    21300042: RobotBoyJump_21
+    21300044: RobotBoyJump_22
+    21300046: RobotBoyJump_23
+    21300048: RobotBoyJump_24
+    21300050: RobotBoyJump_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotBoyJump_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1783
+        width: 216
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1778
+        width: 216
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1787
+        width: 219
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1791
+        width: 217
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_4
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1795
+        width: 216
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_5
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1799
+        width: 213
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_6
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1803
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1463
+        width: 216
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1467
+        width: 219
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1471
+        width: 215
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1475
+        width: 214
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_11
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1477
+        width: 216
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_12
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1479
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_13
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1480
+        width: 217
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1175
+        width: 216
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1175
+        width: 220
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1173
+        width: 216
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_17
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1167
+        width: 228
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_18
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1159
+        width: 216
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1151
+        width: 216
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_20
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1145
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 848
+        width: 216
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 846
+        width: 216
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 217
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_24
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 841
+        width: 216
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBoyJump_25
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 837
+        width: 216
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
