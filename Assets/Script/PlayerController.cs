@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour {
 	public float jumpSpeed = 500.0f;
 	public float gravity = -10f;
 	public GUIStyle style = new GUIStyle();
+	public float pillAffect = 30f;
 	
 	private bool isJumping = false;
 	private Vector2 gravityDir;
@@ -40,10 +41,21 @@ public class PlayerController : MonoBehaviour {
 		Transform ();
 	}
 
+	void FixedUpdate() {
+		if (playerForm != "normal" && pillAffect > 0f)
+						pillAffect = pillAffect - Time.deltaTime;
+		if (pillAffect < 0)
+						pillAffect = 0;
+	}
+
 	/**Handle transformation
 	 * So far player can switch freely from on form to any others
 	 */
 	void Transform () {
+		if (pillAffect <= 0) {
+			ToNormal();
+			return;
+		}
 		if (Input.GetKey(KeyCode.Alpha1)) {
 			ToNormal();
 		}
@@ -175,11 +187,12 @@ public class PlayerController : MonoBehaviour {
 			}
 		}
 		if (hit.gameObject.name == "Roof") {
-			this.isJumping = false;
-			anim.SetBool("jump", false);
-			anim.SetBool("land", true);
+//			this.isJumping = true;
+//			anim.SetBool("jump", true);
+//			anim.SetBool("land", false);
 
 			if (playerForm == "spider") {
+				this.isJumping = false;
 				SetForceDir("up");
 				facingDown = false;
 				FlipVertical();
@@ -200,10 +213,19 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
+	void OnCollisionExit2D( Collision2D hit) {
+		Debug.Log (hit.gameObject.name);
+		if (hit.gameObject.name == "Roof" && playerForm == "spider") {
+			SetForceDir("down");
+			facingDown = true;
+			FlipVertical();
+		}
+	}
+
 	void OnGUI () {
 		if(finish) 
 			GUI.Label (new Rect (Screen.width/2, Screen.height/2, 300, 30), "Congratulation you finished Level 1", style);
-	}
+		GUI.Label (new Rect (Screen.width/10, Screen.height/10, 50, 30), Mathf.Round(pillAffect).ToString(), style);	}
 
 	private void Crack(Collision2D hit) {
 		hit.gameObject.GetComponent<BreakWallController>().Crack();
@@ -242,5 +264,8 @@ public class PlayerController : MonoBehaviour {
 	public void Die() {
 		PlayerPrefs.SetString("previousLevel", Application.loadedLevelName);
 		Application.LoadLevel("end"); //if player is not hammer, he will die.
+	}
+
+	public void ConsumePill(GameObject pill) {
 	}
 }

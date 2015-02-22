@@ -4,7 +4,7 @@ using System.Collections;
 public class ObstacleMoving : MonoBehaviour {
 	Vector2 moveDirection = Vector2.zero;
 	public float speed = 8.0F;
-	private bool run = true;
+	public bool run = true;
 	// Use this for initialization
 	void Start () {
 	
